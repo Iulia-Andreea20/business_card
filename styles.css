@@ -40,6 +40,10 @@ body {
     margin: auto 15px;
 }
 
+#profesion:hover {
+    color: #e6624d;
+}
+
 /*
 Stretch goals:
 Find other ways you can personalize 
